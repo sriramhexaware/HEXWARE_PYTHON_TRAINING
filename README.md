@@ -1,6 +1,7 @@
-HEXAWARE TRAINING ASSIGNMENTS
+# HEXAWARE TRAINING ASSIGNMENTS
 
 This repository contains assignments completed during Hexaware training.
+
 ```
 root/
 ├── Day_05_Databases_Normalisation_and_Data_Definition/
